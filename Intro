@@ -1,0 +1,9 @@
+Hi friends,now will see things to learn  to become Cloud devops Engineer
+1.First you should have handson with any programming language best is python 
+2.Linux operating system handon is absolute necessary 
+3.Usage of Version control ,better to learn widely used version control GIT
+4.CI/CD tool -jenkins
+5.Configuration Management tool -Ansible
+6.Container run time -Docker
+7.Container orachestration tool -kuberenetes
+8.Knowledge of cloud is expected either it be aws ,azure,gcp and for creating infra rather going to gui we will use IAC with best community is terraform
