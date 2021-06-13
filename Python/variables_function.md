@@ -6,7 +6,7 @@ Variable is used to store our data
 
 
 
-Function are perform same tasks ,by calling one method at a time 
+Function are  used to perform same tasks ,by calling one method at a time 
 def double(my_number):
     Actions
     return my_number * 2
